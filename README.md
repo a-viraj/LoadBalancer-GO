@@ -1,7 +1,7 @@
 
 # Go Load Balancer
 
-> This project demonstrates a simple load balancer implemented in Go that distributes requests to multiple backend servers. Each server responds with a unique message.
+ This project demonstrates a simple load balancer implemented in Go that distributes requests to multiple backend servers. Each server responds with a unique message.
 
 # Project Structure
 
