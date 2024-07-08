@@ -14,7 +14,7 @@ project-root/
 ├── server2/
 │ ├── server2.go
 └── server3/
-├── server3.go
+  ├── server3.go
 
 ```
 ## Prerequisites
